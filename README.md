@@ -8,5 +8,5 @@ A web-based Employee Task Management System developed using Flask that allows or
 <img width="1079" height="511" alt="Screenshot 2026-03-27 235517" src="https://github.com/user-attachments/assets/7385f5c8-cd9b-4a62-afec-16d3473962a1" />
 <img width="1078" height="515" alt="Screenshot 2026-03-27 235454" src="https://github.com/user-attachments/assets/0c20cb7d-cb7d-4c93-9496-dc37d809bfde" />
 <img width="1700" height="648" alt="Screenshot 2026-02-16 162941" src="https://github.com/user-attachments/assets/9a0cfcee-e784-4408-bd82-eb338fc20723" />
-<img width="1920" height="1080" alt="Screenshot 2026-02-16 162632" src="https://github.com/user-attachments/assets/02695461-0386-4bf4-82da-307f0cca4313" />
 <img width="1078" height="515" alt="Screenshot 2026-03-27 235610" src="https://github.com/user-attachments/assets/08655299-3e37-40d5-b263-14cf08e70c08" />
+<img width="1066" height="495" alt="Screenshot 2026-03-27 235703" src="https://github.com/user-attachments/assets/e28a3f4d-7f08-4e4c-8741-4451d2f3ac6c" />
